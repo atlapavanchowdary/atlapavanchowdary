@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ✔️ I am a passionate front-end developer presently having professional experience in working with technologies like React.js, JavaScript, Redux, HTML, CSS, and TypeScript. 
 
 ✔️ Website: https://srisivatejapavan.web.app/ (Works on desktop)
+✔️ LinkedIn: https://www.linkedin.com/in/pavan-chowdary-a-206396158/
+✔️ HackerRank: https://www.hackerrank.com/atlapavanchowda1?hr_r=1
