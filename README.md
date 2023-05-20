@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 
 ### Useful links:
 
-✔ https://docs.github.com/en<br>
-✔ https://visualstudio.microsoft.com/vs/getting-started/#workloads
+✔ https://docs.github.com/en
