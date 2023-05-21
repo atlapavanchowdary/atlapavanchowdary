@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### 🌱 About me:
 
-✔️ Hi, I am Sri Siva Teja Pavan a front-end developer based in Hyderabad. <br>
-✔️ I am a passionate front-end developer presently having professional experience in working with technologies like React.js, JavaScript, Redux, HTML, CSS, and TypeScript. 
+✔️ Hi, I am Sri Siva Teja Pavan passionate about front-end developer based in Hyderabad. <br>
+✔️ I have exposure in working with technologies like React.js, JavaScript, Redux, HTML, CSS, and TypeScript. 
 
 ✔️ Website: https://srisivatejapavan-bbbeb.web.app/ (Developed using React.js, JavaScript, HTML and CSS)<br>
 ✔️ LinkedIn: https://www.linkedin.com/in/pavan-chowdary-a-206396158/ <br>
