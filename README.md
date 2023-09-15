@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🌱 About me:
 
-✔️ Hi, I am Sri Siva Teja Pavan passionate about front-end developement based in Hyderabad, Bharat(India). <br>
+✔️ Hi, I am Sri Siva Teja Pavan passionate about front-end developement based in Hyderabad, India. <br>
 ✔️ I passionate in technologies like React.js, JavaScript, Redux, HTML, CSS, and TypeScript. 
 
 ✔️ Website: https://srisivatejapavan-bbbeb.web.app/ (Developed using React.js, JavaScript, HTML and CSS)<br>
