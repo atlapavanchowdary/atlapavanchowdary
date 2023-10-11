@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my GitHub space.
 
 <!--
-**atlapavanchowdary/atlapavanchowdary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sri siva teja pavan atla/sri siva teja pavan atla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
